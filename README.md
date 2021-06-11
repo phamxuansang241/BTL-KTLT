@@ -4,6 +4,7 @@ Giải hệ phương trình Ax = b bằng phương pháp lặp đơn và lặp S
 ## Người thực hiện:
 - Phạm Xuân Sang - 20195591
 - Nguyễn Hải Yến - 20195944
+## Tải chương trình BTL tại [[link]](https://drive.google.com/drive/folders/1GoGdm1IecyIpkw_EERpAA3PfD_P9bbmM?usp=sharing)
 ## Mã nguồn bài tập lớn môn Kỹ thuật lập trình
 ### File header (thư viện)
 - [[function.h]](https://github.com/phamxuansang241/BTL-KTLT/blob/main/function.h): File thư viện chứa các khai báo hàm.
@@ -23,5 +24,12 @@ Gồm chương trình chính và định nghĩa các hàm trong file thư viện
 - [[tinh_mt_G_va_vt_c.cpp]](https://github.com/phamxuansang241/BTL-KTLT/blob/main/tinh_mt_G_va_vt_c.cpp): chứa các hàm tính ma trận G, ma trận G_col và vector c.
 - [[luyThua.cpp]](https://github.com/phamxuansang241/BTL-KTLT/blob/main/luyThua.cpp): chứa hàm tính lũy thừa.
 ## Các file input
+- [[VD1.txt]](https://github.com/phamxuansang241/BTL-KTLT/blob/main/Input/input_a.txt): Ví dụ 1
+- [[VD2.txt]](https://github.com/phamxuansang241/BTL-KTLT/blob/main/Input/input.txt): Ví dụ 2
+- [[VD3.txt]](https://github.com/phamxuansang241/BTL-KTLT/blob/main/Input/input_b.txt): Ví dụ 3
+## Video demo chương trình
+- Chạy ví dụ 1 [[link]](https://youtu.be/6IoMGOJxmNM).
+- Chạy ví dụ 2 [[link]](https://youtu.be/S-dvrOiVdCo).
+- Chạy ví dụ 3 [[link]](https://youtu.be/Vf3lZWjPZXU). 
 
 

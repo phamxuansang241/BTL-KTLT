@@ -4,6 +4,7 @@ Giải hệ phương trình Ax = b bằng phương pháp lặp đơn và lặp S
 ## Người thực hiện:
 - Phạm Xuân Sang - 20195591
 - Nguyễn Hải Yến - 20195944
+## Link mã nguồn online [[link]](https://github.com/phamxuansang241/BTL-KTLT)
 ## Tải chương trình BTL tại [[link]](https://drive.google.com/drive/folders/1GoGdm1IecyIpkw_EERpAA3PfD_P9bbmM?usp=sharing)
 ## Mã nguồn bài tập lớn môn Kỹ thuật lập trình
 ### File header (thư viện)
